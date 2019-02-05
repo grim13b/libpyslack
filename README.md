@@ -1,0 +1,2 @@
+# libpyslack
+LambdaからSlackに通知を送るためのLamdaLayer。libというほどのものでもない。
